@@ -1,0 +1,6 @@
+ollama
+docling
+python-dotenv
+langchain-text-splitters
+tqdm
+fpdf2
